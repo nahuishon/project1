@@ -24,24 +24,24 @@
   }
 
   .blue{
-      color:rgb(81, 81, 202);
-      
+      color:rgb(230, 117, 122);
       border-bottom: 1px solid blueviolet;
       font-size: 80px;
   }
 
   .invisible:hover{
      font-size: 100px;
+     color: #000;
   }
 
   .red{
-      color:aquamarine;
+      color:rgb(233, 214, 108);
       transform: rotate(120deg);
       opacity: 20%;
        
   }
   .pop{
-      background-color: black;
+      background-color: rgb(228, 235, 142);
   }
 
   .page{
@@ -51,3 +51,11 @@
       border-bottom: 15px solid rgb(195, 161, 226);
       border-top: 15px solid rgb(195, 161, 226);
   }
+.no{
+    transform: rotate(120deg);
+    border-width: 1em;
+    border: dotted orange;
+  border-width: 0.2em 0 9px;
+  color: rgb(236, 132, 62);
+    
+}
