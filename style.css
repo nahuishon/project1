@@ -8,6 +8,9 @@
     src: url("./assets/JetBrainsMono-Italic.woff2") format("woff2"); 
   }
 
+  body{
+      background-color: burlywood;
+  }
   h1{
       font-family: "Jet Brains Mono Regular";
   }
