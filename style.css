@@ -1,8 +1,17 @@
 @font-face {
-    font-family: "name of your font";
+    font-family: "Jet Brains Mono Regular";
     src: url("./assets/JetBrainsMono-Regular.woff2") format("woff2"); 
   }
 
+  @font-face {
+    font-family: "Jet Brains Mono Italic";
+    src: url("./assets/JetBrainsMono-Italic.woff2") format("woff2"); 
+  }
+
   h1{
-      font-family: "Jet Brains Mono";
+      font-family: "Jet Brains Mono Regular";
+  }
+
+  h2{
+      font-family: "Jet Brains Mono Italic";
   }
